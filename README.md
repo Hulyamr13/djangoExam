@@ -1,0 +1,5 @@
+![Screenshot](albumadd.png)
+![Screenshot](home.png)
+![Screenshot](delete.png)
+![Screenshot](profile.png)
+![Screenshot](welcome.png)
